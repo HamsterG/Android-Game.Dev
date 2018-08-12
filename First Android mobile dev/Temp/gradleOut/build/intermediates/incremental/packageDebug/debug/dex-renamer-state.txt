@@ -1,0 +1,4 @@
+#Sun Aug 12 01:44:44 CEST 2018
+base.0=/Users/markobermann/Android-Game.Dev/First Android mobile dev/Temp/gradleOut/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
